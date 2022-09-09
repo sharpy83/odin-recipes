@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#project {
+    color: blue;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Caesar Dressing";
+}
+
+.links {
+    position: relative;
+    text-align: center;
+    padding-bottom: 2em;
+    
+
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
